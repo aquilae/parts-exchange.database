@@ -1,0 +1,9 @@
+U:\projects\parts-exchange\database\src\bitwise-operations\bin\Debug\bitwise-operations.dacpac
+U:\projects\parts-exchange\database\src\bitwise-operations\bin\Debug\bitwise_operations.dll
+U:\projects\parts-exchange\database\src\bitwise-operations\bin\Debug\bitwise_operations.pdb
+U:\projects\parts-exchange\database\src\bitwise-operations\obj\Debug\bitwise_operations.dll
+U:\projects\parts-exchange\database\src\bitwise-operations\obj\Debug\bitwise_operations.pdb
+U:\projects\parts-exchange\database\src\bitwise-operations\obj\Debug\Model.xml
+U:\projects\parts-exchange\database\src\bitwise-operations\obj\Debug\refactor.xml
+U:\projects\parts-exchange\database\src\bitwise-operations\obj\Debug\postdeploy.sql
+U:\projects\parts-exchange\database\src\bitwise-operations\obj\Debug\predeploy.sql

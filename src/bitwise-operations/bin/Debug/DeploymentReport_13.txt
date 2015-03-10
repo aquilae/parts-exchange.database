@@ -1,0 +1,20 @@
+﻿** Highlights
+     Tables that will be rebuilt
+       None
+     Clustered indexes that will be dropped
+       None
+     Clustered indexes that will be created
+       None
+     Possible data issues
+       None
+
+** User actions
+     Alter
+       [bitwise_operations] (Assembly)
+     Create
+       [dbo].[fn_binary_sort_input] (User-Defined Table Type)
+
+** Supporting actions
+
+The project and target databases have different collation settings. Deployment errors might occur.
+

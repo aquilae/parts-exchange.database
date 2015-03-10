@@ -1,0 +1,20 @@
+﻿** Highlights
+     Tables that will be rebuilt
+       None
+     Clustered indexes that will be dropped
+       None
+     Clustered indexes that will be created
+       None
+     Possible data issues
+       None
+
+** User actions
+     Alter
+       [bitwise_operations] (Assembly)
+     Create
+       [dbo].[fn_get_binary_set_bits] (Function)
+
+** Supporting actions
+
+The project and target databases have different collation settings. Deployment errors might occur.
+

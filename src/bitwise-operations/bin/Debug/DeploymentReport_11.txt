@@ -1,0 +1,30 @@
+﻿** Highlights
+     Tables that will be rebuilt
+       None
+     Clustered indexes that will be dropped
+       None
+     Clustered indexes that will be created
+       None
+     Possible data issues
+       None
+
+** User actions
+     Drop
+       [dbo].[fn_binary_reverse] (Function)
+       [bitwise_operations] (Assembly)
+     Create
+       [bitwise_operations] (Assembly)
+       [dbo].[fn_binary_reverse] (Function)
+
+** Supporting actions
+     Drop
+       [dbo].[fn_binary_pack] (Aggregate)
+       [dbo].[fn_binary_and] (Function)
+       [dbo].[fn_binary_unpack] (Function)
+     Create
+       [dbo].[fn_binary_pack] (Aggregate)
+       [dbo].[fn_binary_and] (Function)
+       [dbo].[fn_binary_unpack] (Function)
+
+The project and target databases have different collation settings. Deployment errors might occur.
+
